@@ -8,7 +8,7 @@ import Third from '../../../public/images/seventh.png'
 const home = () => {
   return (
     <>
-    <div className='homepage h-[130vh] w-full bg-[#fff] relative'>
+    <div className='homepage h-[130vh] w-full bg-[#FEF9F2] relative'>
       <div className='large-text h-[70vh] bg-[#FFE3E3] flex flex-col gap-1 pt-16 items-center'>
         <h1 className={`${myfont.className} text-6xl`}>The Best Way to learn or <br /> Practice a language</h1>
         <p className={`${myfont.className} capitalize text-md`}>educating, inspiring & Transforming young youth. a free private education hub</p>
