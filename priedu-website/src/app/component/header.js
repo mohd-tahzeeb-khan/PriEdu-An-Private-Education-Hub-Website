@@ -13,12 +13,12 @@ const header = () => {
         <div className='logo align-middle'>
             <h1 className={`${logofont.className} font-bold text-4xl`}>PriEdu</h1>
         </div>
-        <div className='links '>
-            <Link className='mx-5 uppercase text-[15px] font-semibold' href="">Home</Link>
-            <Link className='mx-5 uppercase text-[15px] font-semibold' href="">About</Link>
-            <Link className='mx-5 uppercase text-[15px] font-semibold' href="">Students Info</Link>
-            <Link className='mx-5 uppercase text-[15px] font-semibold' href="">Support</Link>
-            <Link className='mx-5 uppercase text-[15px] font-semibold' href="">Admission</Link>
+        <div className='links flex '>
+           <div className='hover:scale-110 hover:duration-200'><Link className='mx-5 uppercase text-[15px] font-semibold ' href="">Home</Link></div>
+           <div className='hover:scale-110 hover:duration-200'><Link className='mx-5 uppercase text-[15px] font-semibold ' href="">About</Link></div>
+           <div className='hover:scale-110 hover:duration-200'><Link className='mx-5 uppercase text-[15px] font-semibold ' href="">Students Info</Link></div>
+           <div className='hover:scale-110 hover:duration-200'><Link className='mx-5 uppercase text-[15px] font-semibold ' href="">Support</Link></div>
+           <div className='hover:scale-110 hover:duration-200'><Link className='mx-5 uppercase text-[15px] font-semibold ' href="">Admission</Link></div>
         </div>
         <div className='signup-button border-black border-2 rounded-full p-2 px-6 hover:scale-110 hover:text-white hover:duration-150 hover:bg-black'>
             <Link className='font-bold  hover:text-white' href="" prefetch={true}>Sign Up</Link>
