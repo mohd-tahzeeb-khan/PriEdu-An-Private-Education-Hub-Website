@@ -66,7 +66,7 @@ Thanks to the online community and the numerous resources that helped guide this
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| bg-color-1 | ![#789DBC](https://via.placeholder.com/10/789DBC?text=+) #789DBC |
-| bg-color-2 | ![#FFE3E3](https://via.placeholder.com/10/FFE3E3?text=+) #FFE3E3 |
-| bg-color-3 | ![#FEF9F2](https://via.placeholder.com/10/FEF9F2?text=+) #FEF9F2 |
-| bg-color-4 | ![#C9E9D2](https://via.placeholder.com/10/C9E9D2?text=+) #C9E9D2 |
+| bg-color-1 | ![#789DBC](https://placehold.co/10x10/789DBC/FFF) #789DBC |
+| bg-color-2 | ![#FFE3E3](https://placehold.co/10x10/FFE3E3/FFF) #FFE3E3 |
+| bg-color-3 | ![#FEF9F2](https://placehold.co/10x10/FEF9F2/FFF) #FEF9F2 |
+| bg-color-4 | ![#C9E9D2](https://placehold.co/10x10/C9E9D2/FFF) #C9E9D2 |
