@@ -20,8 +20,8 @@ const header = () => {
             <Link className='mx-5 uppercase text-[15px] font-semibold' href="">Support</Link>
             <Link className='mx-5 uppercase text-[15px] font-semibold' href="">Admission</Link>
         </div>
-        <div className='signup-button border-black border-2 rounded-full p-2 px-6'>
-            <Link className='font-bold hover:scale-105 hover:duration-150 hover:bg-black hover:text-white' href="" prefetch={true}>Sign Up</Link>
+        <div className='signup-button border-black border-2 rounded-full p-2 px-6 hover:scale-110 hover:text-white hover:duration-150 hover:bg-black'>
+            <Link className='font-bold  hover:text-white' href="" prefetch={true}>Sign Up</Link>
         </div>
     </div>
     
