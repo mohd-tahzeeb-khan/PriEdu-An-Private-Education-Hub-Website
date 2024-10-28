@@ -66,8 +66,7 @@ Thanks to the online community and the numerous resources that helped guide this
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
+| bg-color-1 | ![#789DBC](https://via.placeholder.com/10/789DBC?text=+) #789DBC |
+| bg-color-2 | ![#FFE3E3](https://via.placeholder.com/10/FFE3E3?text=+) #FFE3E3 |
+| bg-color-3 | ![#FEF9F2](https://via.placeholder.com/10/FEF9F2?text=+) #FEF9F2 |
+| bg-color-4 | ![#C9E9D2](https://via.placeholder.com/10/C9E9D2?text=+) #C9E9D2 |
