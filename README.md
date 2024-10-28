@@ -1,5 +1,7 @@
 
-# PriEdu- Website.
+# PriEdu- Website.  
+
+websit: https://pri-edu-an-private-education-hub-website-n8sr.vercel.app/
 
 This website is a practice project built using Next.js, React, and Tailwind CSS. Inspired by a design prototype found on Instagram, this project serves as a hands-on exploration of modern frontend development concepts and techniques. It showcases various interactive elements, user-friendly layouts, and responsive design patterns, highlighting the powerful capabilities of Next.js for server-side rendering, React’s component-based architecture, and Tailwind CSS for rapid styling.
 
