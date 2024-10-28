@@ -21,7 +21,7 @@ const header = () => {
             <Link className='mx-5 uppercase text-[15px] font-semibold' href="">Admission</Link>
         </div>
         <div className='signup-button border-black border-2 rounded-full p-2 px-6'>
-            <Link className='font-bold' href="" prefetch={true}>Sign Up</Link>
+            <Link className='font-bold hover:scale-105 hover:duration-150 hover:bg-black hover:text-white' href="" prefetch={true}>Sign Up</Link>
         </div>
     </div>
     
