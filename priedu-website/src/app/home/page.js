@@ -18,13 +18,13 @@ const home = () => {
         </div>
       </div>
         <div className='main-absolute-div absolute top-[40%] left-1/2 transform -translate-x-1/2 flex gap-10 '>
-          <div  className='h-80 w-48 rounded-full bg-violet-500 overflow-hidden'>
+          <div  className='h-80 w-48 rounded-full bg-violet-500 overflow-hidden hover:scale-105 hover:duration-300'>
             <Image src={First} width={350} height={450} alt='img' className='object-contain h-[380px]' />
           </div>
-          <div  className='h-80 w-48 rounded-full bg-green-400 overflow-hidden'>
+          <div  className='h-80 w-48 rounded-full bg-green-400 overflow-hidden hover:scale-105 hover:duration-300'>
             <Image src={Second} width={350} height={450} alt='img' className='object-fill h-[380px] w-auto' />
           </div>
-          <div  className='h-80 w-48 rounded-full bg-yellow-300 overflow-hidden'>
+          <div  className='h-80 w-48 rounded-full bg-yellow-300 overflow-hidden hover:scale-105 hover:duration-300'>
             <Image src={Third} width={350} height={450} alt='img' className='object-contain h-[380px]' />
           </div>
         </div>
